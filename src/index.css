@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-#light {
+#light{
   background-color: #d0f0f3;
 }
-#dark {
+#dark{
   background-color: #072658;
 }
 
